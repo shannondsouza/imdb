@@ -1,0 +1,151 @@
+header{
+    background-image: url(images/header-bg.png);
+    height: 535px;
+    width: 100%;
+    color: #5F5F5F;
+}
+header p{
+    color: #5F5F5F;
+}
+.container-fluid{
+    background-image: url(images/header-bg.png);
+}
+.navbar-header{
+    padding-left: 5%;
+}
+.w{
+color: #ffffff !important;
+}
+.lister{ 
+    color: white;
+    padding-left: 32%%;
+}
+
+nav li{
+    display: inline;
+    text-decoration: none;
+}
+figcaption{
+    color: #5F5F5F;
+    background-color: black;
+}
+.black{
+    background-color: black;
+}
+.poster{
+    margin-top: 100px;
+    padding-left: 50px;
+    background-image:url(images/content/dexter.png);
+    background-repeat: no-repeat;
+    height: 320px;}
+.star{
+    margin-left: 50px;
+    background-image: url(images/dstar.jpg);
+    background-repeat: no-repeat;
+    height: 30px;
+}
+.month{
+    padding-left: 100px;
+}
+.see{
+    float: right;
+    padding-right: 120px;
+}
+.harry img{
+    height: 180px;
+    width: 250px;
+}
+.trans img{
+    height: 180px;
+    width: 250px;
+}
+.bat img{
+    height: 180px;
+    width: 250px;
+}
+.iron img{
+    height: 180px;
+    width: 250px;
+}
+.desc{
+    margin-top: 100px;
+    color: white;
+}
+.mid{
+    margin-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.content{
+    margin-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #EFEFEF;
+}
+.dream img{
+    height: 250px;
+    width: 640px;
+}
+.juror img{
+    height: 250px;
+    width: 640px;
+}
+.one{
+     padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+}
+.two{
+    padding-top: 50px;
+    padding-bottom: 50px;
+     padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+}
+.girl img{
+    background-color: white;
+    height: 180px;
+    width: 308px;
+}
+.uncle img{
+    height: 180px;
+    width: 308px;
+}
+.kay img{
+    height: 250px;
+    width: 640px;
+}
+.fant img{
+    height: 270px;
+    width: 438px;
+}
+.rome img{
+    height: 270px;
+    width: 438px;
+}
+.loop img{
+    height: 270px;
+    width: 438px;
+}
+footer{
+    margin-top: 50px;
+    padding-top: 100px;
+    background-color: black;
+    color: aliceblue;
+}
+footer li{
+    text-decoration: none;
+    margin-bottom: 8px;
+}
+a{
+color: aliceblue;
+}
+h4{
+color: dodgerblue;
+}
+
+ul{
+    padding: 0px;
+}
